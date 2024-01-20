@@ -35,10 +35,10 @@ nav {
 }
 
 nav > a {
-  margin-right: 10px;
-  border-radius: 5px;
-  padding: 5px;
+  position: relative;
 }
+
+
 
 nav > a:hover {
   background-color: #f9f9f9;
