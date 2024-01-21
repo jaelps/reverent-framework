@@ -1,10 +1,7 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
+  
 
   return (
     <>
@@ -14,7 +11,12 @@ function App() {
           <a href="">maria</a>
         </nav>
       </header>
-      <main></main>
+      <main>
+        <article>
+          <section></section>
+          <aside></aside>
+        </article>
+      </main>
       <footer></footer>
     </>
   );
