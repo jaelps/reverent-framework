@@ -13,8 +13,14 @@ function App() {
       </header>
       <main>
         <article>
-          <section></section>
-          <aside></aside>
+          <section>
+            <h1>Portifolio Dev</h1>
+            <h2>Jaelson Pereira</h2>
+          </section>
+          <aside>
+            <div className="circulo frente"></div>
+            <div className="circulo fundo"></div>
+          </aside>
         </article>
       </main>
       <footer></footer>
